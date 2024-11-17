@@ -29,9 +29,9 @@ The project demonstrates the following key features:
 
 ### High-Level Workflow:
 1. **Drone Positions and Local Inference:**  
-   - Identify drones with overlapping fields of view. This is determined by finding drones within the range of \( h \cdot \tan(\theta) \), where:  
-     - \( h \): Height of the drone.  
-     - \( \theta \): Angle of the camera relative to the ground.
+   - Identify drones with overlapping fields of view. This is determined by finding drones within the range of h⋅tan(θ), where:  
+     - h: Height of the drone.  
+     - θ: Angle of the camera relative to the ground.
      
 2. **Keypoint Extraction:**  
    - Extract features using techniques such as **SIFT** (Scale-Invariant Feature Transform).
