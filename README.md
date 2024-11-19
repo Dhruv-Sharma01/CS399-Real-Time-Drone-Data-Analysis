@@ -111,6 +111,19 @@ The project demonstrates the following key features:
 
 ---
 
+## References
+
+1. OpenCV Documentation: [https://docs.opencv.org/](https://docs.opencv.org/)  
+2. Ultralytics YOLOv8: [https://ultralytics.com/](https://ultralytics.com/)  
+3. Microsoft COCO Dataset: [https://cocodataset.org/](https://cocodataset.org/)  
+4. Multiple Image Stitching: [https://www.kaggle.com/code/deepzsenu/multiple-image-stitching](https://www.kaggle.com/code/deepzsenu/multiple-image-stitching)  
+5. Dataset for Calculation of Image Stitching Metrics:  
+   [https://www.kaggle.com/datasets/mikhailma/house-rooms-streets-image-dataset](https://www.kaggle.com/datasets/mikhailma/house-rooms-streets-image-dataset)  
+6. Lowe, D.G., "Distinctive Image Features from Scale-Invariant Keypoints," IJCV 2004.  
+
+
+---
+
 ## Contributing
 
 Contributions are welcome! Fork the repository and submit a pull request to suggest improvements or add new features.
